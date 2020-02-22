@@ -13,12 +13,14 @@ Some games don't appear to boot at present, stay tuned to the [Arduboy MiSTer Co
 
 ## Requirements
 
-- Java JDK 8
+- Java 8 or greater
 
 
 ## Usage
 
-You can download and run the JAR:
+You can simply double-click the .jar to run it. Genre folders will download to `./Games/`.
+
+You can also run via command line if you want to choose a different download path or use another repo:
 ```
 java -jar MiSTerArduboyDownloader-v1.0.jar -h
 
