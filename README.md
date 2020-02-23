@@ -22,7 +22,7 @@ Download the latest .jar from the [releases page](https://github.com/treyturner/
 
 You can also run the .jar via command line to choose a different download path or use another repo:
 ```
-java -jar MiSTerArduboyDownloader-v1.0.jar -h
+java -jar MiSTerArduboyDownloader.jar -h
 
 Usage: MiSTerArduboyDownloader [-hV] [-o=<OUTPUT_PATH>] [-r=<REPO_URL>]
   -h, --help              Show this help message and exit.
