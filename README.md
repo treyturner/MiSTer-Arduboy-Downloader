@@ -18,7 +18,7 @@ Some games don't appear to boot at present, stay tuned to the [Arduboy MiSTer Co
 
 ## Usage
 
-Download the latest .jar from the [releases page](https://github.com/treyturner/MiSTer-Arduboy-Downloader/releases) and double click it. Genre folders will download to `./Games/`.
+Download the latest .jar from the [releases page](https://github.com/treyturner/MiSTer-Arduboy-Downloader/releases) and double click it. Genre folders will download to `./Games/`
 
 You can also run the .jar via command line to choose a different download path or use another repo:
 ```
