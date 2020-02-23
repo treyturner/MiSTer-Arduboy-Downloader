@@ -31,12 +31,3 @@ Usage: MiSTerArduboyDownloader [-hV] [-o=<OUTPUT_PATH>] [-r=<REPO_URL>]
   -r, --repo=<REPO_URL>   Repo URL. Defaults to Erwin's
   -V, --version           Print version information and exit.
 ```
-
-Alternately you can run from source in Windows:
-```
-gradlew.bat run
-```
-or OSX/Linux:
-```
-./gradlew run
-```
